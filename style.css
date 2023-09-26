@@ -8,6 +8,10 @@ html {
 }
 body {
   font-family: "Goldman", cursive;
+  background-color: black;
+  background-image: url(background.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 nav {
