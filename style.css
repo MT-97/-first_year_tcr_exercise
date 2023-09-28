@@ -24,6 +24,8 @@ nav {
   margin: auto;
   background: #00a8c7;
   justify-content: space-between;
+  position: fixed;
+  top: 0;
 }
 nav ul {
   display: flex;

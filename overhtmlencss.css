@@ -22,12 +22,16 @@
     color: aliceblue;
     font-size: 4rem;
     font-weight: bold;
+    text-align: center;
+    padding: 8%;
+    
 
  } 
 
  p {
     color: aliceblue;
-    font-size: 4rem;
+    font-size: 2rem;
+    margin: 10px;
  }
  footer{
     width: 100%;
@@ -49,10 +53,14 @@
     min-height: 10vh;
     align-items: center;
     flex-wrap: wrap;
-    margin: auto;
+    margin: aut;
     background: #00a8c7;
     justify-content: space-between;
+    position: fixed;
+    top: 0;
   }
+
+
   nav ul {
     display: flex;
     align-items: center;
